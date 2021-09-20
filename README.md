@@ -2,3 +2,6 @@
 - CDQA is an End-To-End Closed Domain Question Answering System. 
 <br>
 <br>
+<b>Output:</b>
+
+
